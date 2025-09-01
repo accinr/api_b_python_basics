@@ -1,4 +1,5 @@
-
 def getValues():
-    pass
+    print("Hello World")
 
+
+getValues()

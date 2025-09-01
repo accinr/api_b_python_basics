@@ -1,7 +1,15 @@
-public static void main(){
-    sout("");
-}
+# public static void main(){
+#     sout("");
+# }
 
-def main():
-    print("")
+print("a Parameter")
+for i in range(5):
+    print(i)
 
+print("2 Parameters")
+for i in range(1,5):
+    print(i)
+
+print("3 Parameters")
+for i in range(1,10, 2):
+    print(i)
