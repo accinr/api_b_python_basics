@@ -3,6 +3,8 @@ def getValues(a, b):
     print(f"The sum is {sum}")
     return sum
 
-total = getValues(123,456)
-print(total)
+num1 = int(input("Enter a number "))
+num2 = int(input("Enter a number "))
 
+total = getValues(num1, num2)
+print(total)
